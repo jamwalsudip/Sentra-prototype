@@ -18,7 +18,7 @@ const MobileBlocker: React.FC<{ children: React.ReactNode }> = ({ children }) =>
             <div style={{
                 position: 'fixed',
                 inset: 0,
-                background: 'linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)',
+                background: 'linear-gradient(135deg, #16a34a 0%, #059669 100%)',
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
